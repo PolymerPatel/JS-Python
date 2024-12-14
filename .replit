@@ -1,2 +1,4 @@
-language = "bash"
-run = ""
+languages = [python, HTML, JS]
+run = "developer_journey"
+
+def(languages, run):
