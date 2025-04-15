@@ -45,7 +45,3 @@ Welcome to my coding journey repository! This is where I document my progress as
 ## 🤝 Connect & Collaborate
 
 I'm always looking to connect with fellow developers and collaborate on interesting projects. Feel free to reach out!
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
