@@ -1,4 +1,4 @@
-# Developer Journey
+# Summary
 
 Welcome to my coding journey repository! This is where I document my progress as I grow from a junior developer into a more experienced programmer.
 
