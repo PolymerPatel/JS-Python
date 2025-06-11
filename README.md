@@ -6,7 +6,7 @@ Welcome to my coding journey repository! This is where I document my progress as
 
 - **JavaScript**: Working with arrays, strings, and basic data structures
 - **HTML/CSS**: Building basic web interfaces
-- **Python**: Beginning to explore the fundamentals
+- **Python**: Getting more Material Science tools integrated
 
 ## 📚 Repository Contents
 
